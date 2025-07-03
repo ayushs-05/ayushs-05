@@ -2,17 +2,17 @@
 <h3 align="center">🚀 Full-stack React & React Native Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&height=60&lines=I'm+a+human+with+AI+on+my+mind.;React+%2B+React+Native+is+my+craft.;Web+%7C+Mobile+%7C+XR+%3D+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Human+with+AI+skills.;Crafting+React+%26+React+Native+apps.;Web+%2B+Mobile+%2B+XR+experiences+🚀" alt="Typing animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **immersive web + mobile apps** using `React`, `Next.js`, and `React Native`.
-- 🌱 Exploring **AR/VR**, `WebGL`, and performance-first animations.
-- 📱 Mobile-first, API-driven dev with CMS like Sanity & Firebase.
-- ⚡ Fun fact: I love turning ideas into clean, maintainable experiences.
+- 🔭 Currently building **immersive web + mobile apps** using `React`, `Next.js`, and `React Native`
+- 🌱 Exploring **AR/VR**, `WebGL`, and performance-first animations
+- 📱 Mobile-first, API-driven development using `Sanity`, `Firebase`, and `CMS` tools
+- ⚡ Fun fact: I love turning ideas into **pixel-perfect, maintainable code**
 
 ---
 
@@ -57,9 +57,9 @@
 
 | 🧠 Project | 💡 Tech | 🔍 Description |
 |-----------|---------|----------------|
-| **A Moment with Newton (AR/VR)** | React Native, Android, 3D | Simulates 1666 orchard interaction with Newton using voice, hand-tracking & physics. |
-| **E-Commerce for Auto Parts** | Next.js, Sanity, Tailwind | Category-specific listing & PDP with 360° rotation, Swiper, CMS-controlled content. |
-| **Wallet Mobile App** | React Native, Firebase | Cross-platform app for wallets, transactions, and native OTP/auth flow. |
+| **A Moment with Newton (AR/VR)** | React Native, Android, 3D | Simulates 1666 orchard interaction with Newton using voice, hand-tracking & physics |
+| **Auto Parts E-Commerce** | Next.js, Sanity, Tailwind | Dynamic PLP + PDP with 360° rotation, CMS integration & product filtering |
+| **Digital Wallet App** | React Native, Firebase | Cross-platform wallet with OTP, auth, transaction history, and native modules |
 
 ---
 
@@ -85,7 +85,7 @@
 - 🌐 Portfolio: [ayush-portfolio.vercel.app](https://ayush-portfolio-taupe.vercel.app/)
 - 📧 Email: [ayush.saxena5@bajajtechnologyservices.com](mailto:ayush.saxena5@bajajtechnologyservices.com)
 - 📞 Phone: +91-8871606705
-- 💼 LinkedIn: [linkedin.com/in/ayush-saxena-8730a521a](https://in.linkedin.com/in/ayush-saxena-8730a521a)
+- 💼 LinkedIn: [linkedin.com/in/ayush-saxena-8730a521a](https://linkedin.com/in/ayush-saxena-8730a521a)
 
 ---
 
