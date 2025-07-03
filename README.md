@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
-<h3 align="center">🚀 Full-stack React & React Native Developer | Human with an AI Mind 🧠🤖</h3>
+<h3 align="center">🚀 Full-stack React & React Native Developer</h3>
 
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=70&lines=I'm+a+developer+who+loves+clean+UI+%26+AR+magic+🧠;React+web+%2B+mobile+app+specialist+📱;Creating+with+code%2C+not+just+coding+💡" alt="Typing SVG" />
+</p>
+
+<!-- GIF (Visual Enhancement) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
 </p>
 
 ---
@@ -10,15 +16,15 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **immersive web + mobile apps** using `React`, `Next.js`, and `React Native`
-- 🌱 Exploring **AR/VR**, `WebGL`, `Three.js` and **AI-enhanced interfaces**
-- 🧠 Passionate about turning real-world problems into pixel-perfect, scalable solutions
-- 💡 Believer in the power of **human-centered AI + UI/UX-first thinking**
+- 🌱 Exploring **AR/VR**, `WebGL`, and performance-first animations
+- 📱 API-driven dev with Sanity, Firebase, and atomic design
+- ⚡ Turning ideas into clean, scalable code is my jam
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend & Mobile
+### 📱 Frontend & Mobile
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
@@ -45,11 +51,10 @@
 
 ## 🧑‍💼 Work Philosophy
 
-- 🎨 UI/UX-first thinking with pixel precision  
-- 📦 Atomic design & component-driven architecture  
-- 🚀 Performance-first mindset across all devices  
-- 🤝 Collaborative Git workflows & clean codebase  
-- 🔐 Scalable, secure, real-time ready apps  
+- 🎨 Pixel-perfect UI/UX-first development
+- 🔗 API-first, CMS-friendly architecture
+- ⚡ Performance-optimized, scalable builds
+- 🤝 Clean Git workflow & team-first mindset
 
 ---
 
@@ -57,9 +62,9 @@
 
 | 🧠 Project | 💡 Tech | 🔍 Description |
 |-----------|---------|----------------|
-| **A Moment with Newton (AR/VR)** | React Native, Android, 3D | Simulates 1666 orchard interaction with Newton using voice, hand-tracking & physics |
-| **Auto Parts E-Commerce** | Next.js, Sanity, Tailwind | Dynamic PLP + PDP with 360° rotation, SwiperJS, CMS integration |
-| **Digital Wallet App** | React Native, Firebase | Cross-platform wallet with OTP, auth, transaction history, and native modules |
+| **A Moment with Newton (AR/VR)** | React Native, Android, 3D | Immersive AR app simulating Newton’s orchard interaction using voice, hand-tracking & physics |
+| **Tyre & Lubricant E-Commerce** | Next.js, Sanity, Tailwind | Multi-category product listings, 360° views, and SwiperJS + CMS control |
+| **Wallet Mobile App** | React Native, Firebase | Secure cross-platform wallet app with auth, transaction log, and native features |
 
 ---
 
@@ -75,7 +80,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushs-05&theme=react-dark" alt="GitHub activity graph" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ayushs-05&theme=react-dark" width="100%" />
 </p>
 
 ---
@@ -85,7 +90,7 @@
 - 🌐 Portfolio: [ayush-portfolio.vercel.app](https://ayush-portfolio-taupe.vercel.app/)
 - 📧 Email: [ayush.saxena5@bajajtechnologyservices.com](mailto:ayush.saxena5@bajajtechnologyservices.com)
 - 📞 Phone: +91-8871606705
-- 💼 LinkedIn: [linkedin.com/in/ayush-saxena-8730a521a](https://linkedin.com/in/ayush-saxena-8730a521a)
+- 💼 LinkedIn: [linkedin.com/in/ayush-saxena-8730a521a](https://in.linkedin.com/in/ayush-saxena-8730a521a)
 
 ---
 
