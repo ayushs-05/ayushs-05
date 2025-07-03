@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
 <h3 align="center">🚀 Full-stack React & React Native Developer</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+modern+React+web+apps+%F0%9F%9A%80;Crafting+immersive+React+Native+experiences+%F0%9F%8F%B0;AR%2FVR+simulations+with+voice+%26+physics+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Lover+of+clean%2C+reusable%2C+atomic+code+%F0%9F%96%A5%EF%B8%8F" alt="Typing animation" />
-</p>
+</div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **immersive web + mobile apps** using `React`, `Next.js`, and `React Native`.
-
 - 🌱 Exploring **AR/VR**, `WebGL`, and performance-first animations.
-
 - 📱 Mobile-first, API-driven dev with CMS like Sanity & Firebase.
-
 - ⚡ Fun fact: I love turning ideas into clean, maintainable experiences.
 
 ---
@@ -88,7 +87,7 @@
 - 🌐 Portfolio: [ayush-portfolio.vercel.app](https://ayush-portfolio-taupe.vercel.app/)
 - 📧 Email: [ayush.saxena5@bajajtechnologyservices.com](mailto:ayush.saxena5@bajajtechnologyservices.com)
 - 📞 Phone: +91-8871606705
-- 🧑‍💼 LinkedIn: [linkedin.com/in/your-username](https://in.linkedin.com/in/ayush-saxena-8730a521a)
+- 💼 LinkedIn: [linkedin.com/in/ayush-saxena-8730a521a](https://in.linkedin.com/in/ayush-saxena-8730a521a)
 
 ---
 
