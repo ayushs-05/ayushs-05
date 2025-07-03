@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
-<h3 align="center">🚀 Full-stack React & React Native Developer</h3>
+<h3 align="center">🚀 Full-stack React & React Native Developer | Human with an AI Mind 🧠🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Human+with+AI+skills.;Crafting+React+%26+React+Native+apps.;Web+%2B+Mobile+%2B+XR+experiences+🚀" alt="Typing animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding animation" />
 </p>
 
 ---
@@ -10,15 +10,15 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **immersive web + mobile apps** using `React`, `Next.js`, and `React Native`
-- 🌱 Exploring **AR/VR**, `WebGL`, and performance-first animations
-- 📱 Mobile-first, API-driven development using `Sanity`, `Firebase`, and `CMS` tools
-- ⚡ Fun fact: I love turning ideas into **pixel-perfect, maintainable code**
+- 🌱 Exploring **AR/VR**, `WebGL`, `Three.js` and **AI-enhanced interfaces**
+- 🧠 Passionate about turning real-world problems into pixel-perfect, scalable solutions
+- 💡 Believer in the power of **human-centered AI + UI/UX-first thinking**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Frontend & Mobile
+### 💻 Frontend & Mobile
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
@@ -45,11 +45,11 @@
 
 ## 🧑‍💼 Work Philosophy
 
-- 🎨 UI/UX-first thinking with pixel precision
-- 📦 Atomic design & component-driven approach
-- ⚡ High-performance mobile & web experiences
-- 🔐 Scalable architecture with strong data handling
-- 🤝 Team collaboration with clean Git practices
+- 🎨 UI/UX-first thinking with pixel precision  
+- 📦 Atomic design & component-driven architecture  
+- 🚀 Performance-first mindset across all devices  
+- 🤝 Collaborative Git workflows & clean codebase  
+- 🔐 Scalable, secure, real-time ready apps  
 
 ---
 
@@ -58,7 +58,7 @@
 | 🧠 Project | 💡 Tech | 🔍 Description |
 |-----------|---------|----------------|
 | **A Moment with Newton (AR/VR)** | React Native, Android, 3D | Simulates 1666 orchard interaction with Newton using voice, hand-tracking & physics |
-| **Auto Parts E-Commerce** | Next.js, Sanity, Tailwind | Dynamic PLP + PDP with 360° rotation, CMS integration & product filtering |
+| **Auto Parts E-Commerce** | Next.js, Sanity, Tailwind | Dynamic PLP + PDP with 360° rotation, SwiperJS, CMS integration |
 | **Digital Wallet App** | React Native, Firebase | Cross-platform wallet with OTP, auth, transaction history, and native modules |
 
 ---
@@ -75,7 +75,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ayushs-05&theme=react-dark" alt="GitHub activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushs-05&theme=react-dark" alt="GitHub activity graph" width="100%" />
 </p>
 
 ---
