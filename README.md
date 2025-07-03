@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
 <h3 align="center">🚀 Full-stack React & React Native Developer</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+modern+React+web+apps+%F0%9F%9A%80;Crafting+immersive+React+Native+experiences+%F0%9F%8F%B0;AR%2FVR+simulations+with+voice+%26+physics+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Lover+of+clean%2C+reusable%2C+atomic+code+%F0%9F%96%A5%EF%B8%8F" alt="Typing animation" />
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&height=60&lines=I'm+a+human+with+AI+on+my+mind.;React+%2B+React+Native+is+my+craft.;Web+%7C+Mobile+%7C+XR+%3D+🚀" alt="Typing animation" />
+</p>
 
 ---
 
